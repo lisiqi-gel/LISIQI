@@ -143,7 +143,7 @@ const Register: React.FC = () => {
           <p className={styles.label}>
             パスワード再入力：{confirmPassword && password && confirmPassword !== password && (
             <span className={styles.error}>
-              入力したパスワードが一致しません
+              入力したパスワードが一致しません!
             </span>)}
             </p>
           <Input.Password
