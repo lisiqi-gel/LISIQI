@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 
 const QQQ: React.FC=() =>{
   return(
-  <div>aaaaa
+  <div>aaabbbba
 
   </div>
 
