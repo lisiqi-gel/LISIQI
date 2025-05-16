@@ -3,7 +3,9 @@ import { useNavigate } from 'react-router-dom';
 
 const QQQ: React.FC=() =>{
   return(
-  <div>QQQ 页面</div>
+  <div>abc
+    
+  </div>
 
   );
   
