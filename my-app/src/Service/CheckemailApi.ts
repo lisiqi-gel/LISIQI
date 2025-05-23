@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-// const ApiKey = '';
-// const ApiUrl = '';
+const ApiKey = '';
+const ApiUrl = '';
 
 const checkemail = async (email:string) => {
     try {
