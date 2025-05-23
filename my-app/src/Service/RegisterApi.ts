@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-// const ApiKey = '';
-// const ApiUrl = '';
+const ApiKey = '';
+const ApiUrl = '';
 
 const handleRegister = async (email:string,company:string,companyweb:string,password:any,) => {
     try {
